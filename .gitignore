@@ -1,0 +1,5 @@
+# Ignore all .gb files
+*.gb
+
+# Ignore all .env files and variations
+.env*
